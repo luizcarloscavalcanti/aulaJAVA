@@ -1,4 +1,3 @@
-package com.luizcarlos.cursojava.aula12;
 
 import java.util.Scanner;
 
